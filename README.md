@@ -1,1 +1,1 @@
-echo "# ValidacionFormularioBasico"
+# ValidacionFormularioBasico
